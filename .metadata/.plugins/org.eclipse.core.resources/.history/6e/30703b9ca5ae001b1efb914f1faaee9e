@@ -1,0 +1,11 @@
+package sintaxeVariaveiseFluxo;
+
+public class TestaVariaveis {
+	
+	public static void main(String[] args) {
+		
+		System.out.prntls("Olá novo teste");
+		
+	}
+
+}
